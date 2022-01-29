@@ -11,6 +11,7 @@ import Footer from './Component/HomePage/Footer/Footer';
 import Login from './Component/Login/Login';
 import Header from './Component/HomePage/Header/Header';
 import Banner from './Component/HomePage/Banner/Banner';
+import Explores from './Component/Explores/Explores';
 
 function App() {
   return (
@@ -30,7 +31,9 @@ function App() {
           <Route path="/banner">
            <Banner></Banner>
           </Route>
-
+          <Route path="/explore">
+           <Explores></Explores>
+          </Route>
         </Switch>
         <Footer></Footer>
       </Router>

@@ -1,7 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import Banner from '../Banner/Banner';
-
-import Header from '../Header/Header';
 import Home from '../Home/Home';
 
 const Homes = () => {
@@ -14,7 +12,7 @@ const Homes = () => {
     return (
         <div >
             <div>
-            <Header></Header>
+            
             <Banner></Banner>
             
             </div>
