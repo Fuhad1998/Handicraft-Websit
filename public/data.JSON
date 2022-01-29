@@ -1,0 +1,242 @@
+[
+    {
+      "id": 1,
+      "name": "TEA TAKLI",
+      "detail": "Handicraft has its roots in the rural crafts—the material-goods necessities—of ancient civilizations",
+      "description": "A handicraft, sometimes more precisely expressed as artisanal handicraft or handmade, is any of a wide variety of types of work where useful and decorative objects are made completely by one’s hand or by using only simple, non-automated related tools like scissors, carving implements, or hooks.",
+      "img": "https://i.ibb.co/2NbLVDd/51l-A9-o-Oyt-L-QL70-ML2.jpg",
+      "price": "85"
+    },
+    {
+      "id": 2,
+      "name": "FLOWERS BOX",
+      "detail": "Handicraft has its roots in the rural crafts—the material-goods necessities—of ancient civilizations",
+      "description": "A handicraft, sometimes more precisely expressed as artisanal handicraft or handmade, is any of a wide variety of types of work where useful and decorative objects are made completely by one’s hand or by using only simple, non-automated related tools like scissors, carving implements, or hooks.",
+      "img": "https://i.ibb.co/KN2sYzp/81m-MRs-EVCYL-SX342-Copy.jpg",
+      "price": "105"
+    },
+    {
+      "id": 3,
+      "name": "WALL WALLET",
+      "detail": "Handicraft has its roots in the rural crafts—the material-goods necessities—of ancient civilizations",
+      "description": "A handicraft, sometimes more precisely expressed as artisanal handicraft or handmade, is any of a wide variety of types of work where useful and decorative objects are made completely by one’s hand or by using only simple, non-automated related tools like scissors, carving implements, or hooks.",
+      "img": "https://i.ibb.co/kHbFg6t/91-Dg48m-JEZL-AC-SS450-Copy.jpg",
+      "price": "110"
+    },
+    {
+      "id": 4,
+      "name": "CERAMIC PITCHER",
+      "detail": "Handicraft has its roots in the rural crafts—the material-goods necessities—of ancient civilizations",
+      "description": "A handicraft, sometimes more precisely expressed as artisanal handicraft or handmade, is any of a wide variety of types of work where useful and decorative objects are made completely by one’s hand or by using only simple, non-automated related tools like scissors, carving implements, or hooks.",
+      "img": "https://i.ibb.co/Fg9B8zB/ceramic-flower-pots-500x500-Copy.jpg",
+      "price": "98"
+    },
+    {
+      "id": 5,
+      "name": "Ceramic-Flower-Pots",
+      "detail": "Handicraft has its roots in the rural crafts—the material-goods necessities—of ancient civilizations",
+      "description": "A handicraft, sometimes more precisely expressed as artisanal handicraft or handmade, is any of a wide variety of types of work where useful and decorative objects are made completely by one’s hand or by using only simple, non-automated related tools like scissors, carving implements, or hooks.",
+      "img": "https://i.ibb.co/x3gtmVq/ceramic-flower-pots-500x500-2-Copy.jpg",
+      "price": "150"
+    },
+    {
+      "id": 6,
+      "name": "Flower-Pots",
+      "detail": "Handicraft has its roots in the rural crafts—the material-goods necessities—of ancient civilizations",
+      "description": "A handicraft, sometimes more precisely expressed as artisanal handicraft or handmade, is any of a wide variety of types of work where useful and decorative objects are made completely by one’s hand or by using only simple, non-automated related tools like scissors, carving implements, or hooks.",
+      "img": "https://i.ibb.co/Fg9B8zB/ceramic-flower-pots-500x500-Copy.jpg",
+      "price": "220"
+    },
+    {
+      "id": 7,
+      "name": "Wall-Clocks",
+      "detail": "Handicraft has its roots in the rural crafts—the material-goods necessities—of ancient civilizations",
+      "description": "A handicraft, sometimes more precisely expressed as artisanal handicraft or handmade, is any of a wide variety of types of work where useful and decorative objects are made completely by one’s hand or by using only simple, non-automated related tools like scissors, carving implements, or hooks.",
+      "img": "https://i.ibb.co/g9c5Xsm/data-home-decors-clocks-wall-clocks-antique-handcrafted-peacock-decorative-wall-clock-front-Copy.jpg",
+      "price": "540"
+    },
+    {
+      "id": 8,
+      "name": "Decorative-Handicraft",
+      "detail": "Handicraft has its roots in the rural crafts—the material-goods necessities—of ancient civilizations",
+      "description": "A handicraft, sometimes more precisely expressed as artisanal handicraft or handmade, is any of a wide variety of types of work where useful and decorative objects are made completely by one’s hand or by using only simple, non-automated related tools like scissors, carving implements, or hooks.",
+      "img": "https://i.ibb.co/tZVstQp/decorative-handicraft-swing-250x250-Copy.jpg",
+      "price": "600"
+    },
+    {
+      "id": 9,
+      "name": "Decorative-Marble-Pots",
+      "detail": "Handicraft has its roots in the rural crafts—the material-goods necessities—of ancient civilizations",
+      "description": "A handicraft, sometimes more precisely expressed as artisanal handicraft or handmade, is any of a wide variety of types of work where useful and decorative objects are made completely by one’s hand or by using only simple, non-automated related tools like scissors, carving implements, or hooks.",
+      "img": "https://i.ibb.co/0FTfpj0/decorative-marble-pots-740000-Copy.jpg",
+      "price": "435"
+    },
+    {
+      "id": 10,
+      "name": "Designer-Wall-Clock",
+      "detail": "Handicraft has its roots in the rural crafts—the material-goods necessities—of ancient civilizations",
+      "description": "A handicraft, sometimes more precisely expressed as artisanal handicraft or handmade, is any of a wide variety of types of work where useful and decorative objects are made completely by one’s hand or by using only simple, non-automated related tools like scissors, carving implements, or hooks.",
+      "img": "https://i.ibb.co/PNTqgGK/designer-wall-clock-250x250-Copy.jpg",
+      "price": "234"
+    },
+    {
+      "id": 11,
+      "name": "Fashion-Diamond-Wall-Clock",
+      "detail": "Handicraft has its roots in the rural crafts—the material-goods necessities—of ancient civilizations",
+      "description": "A handicraft, sometimes more precisely expressed as artisanal handicraft or handmade, is any of a wide variety of types of work where useful and decorative objects are made completely by one’s hand or by using only simple, non-automated related tools like scissors, carving implements, or hooks.",
+      "img": "https://i.ibb.co/3km22wR/Fashion-Vintage-Diamond-Large-Mute-Personality-Resin-Peahen-Wall-Clock-Copy.jpg",
+      "price": "567"
+    },
+    {
+      "id": 12,
+      "name": "Golden-Minakari-Chowki",
+      "detail": "Handicraft has its roots in the rural crafts—the material-goods necessities—of ancient civilizations",
+      "description": "A handicraft, sometimes more precisely expressed as artisanal handicraft or handmade, is any of a wide variety of types of work where useful and decorative objects are made completely by one’s hand or by using only simple, non-automated related tools like scissors, carving implements, or hooks.",
+      "img": "https://i.ibb.co/fCrbGhG/golden-minakari-chowki-500x500-Copy.jpg",
+      "price": "432"
+    },
+    {
+      "id": 13,
+      "name": "Handbag",
+      "detail": "Handicraft has its roots in the rural crafts—the material-goods necessities—of ancient civilizations",
+      "description": "A handicraft, sometimes more precisely expressed as artisanal handicraft or handmade, is any of a wide variety of types of work where useful and decorative objects are made completely by one’s hand or by using only simple, non-automated related tools like scissors, carving implements, or hooks.",
+      "img": "https://i.ibb.co/nm41k2f/handmade-handicraft-handbag-500x500-Copy.jpg",
+      "price": "671"
+    },
+    {
+      "id": 14,
+      "name": "Pen Box",
+      "detail": "Handicraft has its roots in the rural crafts—the material-goods necessities—of ancient civilizations",
+      "description": "A handicraft, sometimes more precisely expressed as artisanal handicraft or handmade, is any of a wide variety of types of work where useful and decorative objects are made completely by one’s hand or by using only simple, non-automated related tools like scissors, carving implements, or hooks.",
+      "img": "https://i.ibb.co/b5vHPzB/Handmade-handicraft-items-jpg-Copy.jpg",
+      "price": "90"
+    },
+    {
+      "id": 15,
+      "name": "Water Box",
+      "detail": "Handicraft has its roots in the rural crafts—the material-goods necessities—of ancient civilizations",
+      "description": "A handicraft, sometimes more precisely expressed as artisanal handicraft or handmade, is any of a wide variety of types of work where useful and decorative objects are made completely by one’s hand or by using only simple, non-automated related tools like scissors, carving implements, or hooks.",
+      "img": "https://i.ibb.co/Z2mkVrs/images-1.jpg",
+      "price": "300"
+    },
+    {
+      "id": 16,
+      "name": "Handicraft Medal",
+      "detail": "Handicraft has its roots in the rural crafts—the material-goods necessities—of ancient civilizations",
+      "description": "A handicraft, sometimes more precisely expressed as artisanal handicraft or handmade, is any of a wide variety of types of work where useful and decorative objects are made completely by one’s hand or by using only simple, non-automated related tools like scissors, carving implements, or hooks.",
+      "img": "https://i.ibb.co/gmgf8Fn/images-2-Copy.jpg",
+      "price": "250"
+    },
+    {
+      "id": 17,
+      "name": "Handicraft-Box",
+      "detail": "Handicraft has its roots in the rural crafts—the material-goods necessities—of ancient civilizations",
+      "description": "A handicraft, sometimes more precisely expressed as artisanal handicraft or handmade, is any of a wide variety of types of work where useful and decorative objects are made completely by one’s hand or by using only simple, non-automated related tools like scissors, carving implements, or hooks.",
+      "img": "https://i.ibb.co/YcS9Dh9/images-3.jpg",
+      "price": "145"
+    },
+    {
+      "id": 18,
+      "name": "Handicraft-Medal",
+      "detail": "Handicraft has its roots in the rural crafts—the material-goods necessities—of ancient civilizations",
+      "description": "A handicraft, sometimes more precisely expressed as artisanal handicraft or handmade, is any of a wide variety of types of work where useful and decorative objects are made completely by one’s hand or by using only simple, non-automated related tools like scissors, carving implements, or hooks.",
+      "img": "https://i.ibb.co/p4P9vG4/images-4-Copy.jpg",
+      "price": "1000"
+    },
+    {
+      "id": 19,
+      "name": "Wall Watch",
+      "detail": "Handicraft has its roots in the rural crafts—the material-goods necessities—of ancient civilizations",
+      "description": "A handicraft, sometimes more precisely expressed as artisanal handicraft or handmade, is any of a wide variety of types of work where useful and decorative objects are made completely by one’s hand or by using only simple, non-automated related tools like scissors, carving implements, or hooks.",
+      "img": "https://i.ibb.co/2swPd4m/images-5-Copy.jpg",
+      "price": "1200"
+    },
+    {
+      "id": 20,
+      "name": "Handicraft-Medal",
+      "detail": "Handicraft has its roots in the rural crafts—the material-goods necessities—of ancient civilizations",
+      "description": "A handicraft, sometimes more precisely expressed as artisanal handicraft or handmade, is any of a wide variety of types of work where useful and decorative objects are made completely by one’s hand or by using only simple, non-automated related tools like scissors, carving implements, or hooks.",
+      "img": "https://i.ibb.co/JRqGDKG/images.jpg",
+      "price": "2000"
+    },
+    {
+      "id": 21,
+      "name": "Kaszubska-Cup",
+      "detail": "Handicraft has its roots in the rural crafts—the material-goods necessities—of ancient civilizations",
+      "description": "A handicraft, sometimes more precisely expressed as artisanal handicraft or handmade, is any of a wide variety of types of work where useful and decorative objects are made completely by one’s hand or by using only simple, non-automated related tools like scissors, carving implements, or hooks.",
+      "img": "https://i.ibb.co/mDDDXmL/kaszubska-ceramika-kufel.jpg",
+      "price": "123"
+    },
+    {
+      "id": 22,
+      "name": "Marble-Plates",
+      "detail": "Handicraft has its roots in the rural crafts—the material-goods necessities—of ancient civilizations",
+      "description": "A handicraft, sometimes more precisely expressed as artisanal handicraft or handmade, is any of a wide variety of types of work where useful and decorative objects are made completely by one’s hand or by using only simple, non-automated related tools like scissors, carving implements, or hooks.",
+      "img": "https://i.ibb.co/mSvRX04/marble-handicraft-plates-1505389774-3327946.jpg",
+      "price": "430"
+    },
+    {
+      "id": 23,
+      "name": "Marble-Handmade-Gold-Plate",
+      "detail": "Handicraft has its roots in the rural crafts—the material-goods necessities—of ancient civilizations",
+      "description": "A handicraft, sometimes more precisely expressed as artisanal handicraft or handmade, is any of a wide variety of types of work where useful and decorative objects are made completely by one’s hand or by using only simple, non-automated related tools like scissors, carving implements, or hooks.",
+      "img": "https://i.ibb.co/tpfjRfr/marble-handmade-gold-painting-handicraft-plate-1554271455-4828785.jpg",
+      "price": "1300"
+    },
+    {
+      "id": 24,
+      "name": "Marble-Indian-Plate",
+      "detail": "Handicraft has its roots in the rural crafts—the material-goods necessities—of ancient civilizations",
+      "description": "A handicraft, sometimes more precisely expressed as artisanal handicraft or handmade, is any of a wide variety of types of work where useful and decorative objects are made completely by one’s hand or by using only simple, non-automated related tools like scissors, carving implements, or hooks.",
+      "img": "https://i.ibb.co/bQZndbh/marble-indian-handicraft-500x500.jpg",
+      "price": "500"
+    },
+    {
+      "id": 25,
+      "name": "Marble-Indian-Plate",
+      "detail": "Handicraft has its roots in the rural crafts—the material-goods necessities—of ancient civilizations",
+      "description": "A handicraft, sometimes more precisely expressed as artisanal handicraft or handmade, is any of a wide variety of types of work where useful and decorative objects are made completely by one’s hand or by using only simple, non-automated related tools like scissors, carving implements, or hooks.",
+      "img": "https://i.ibb.co/7G7cvXP/mp7957-6-Inch-2.jpg",
+      "price": "550"
+    },
+    {
+      "id": 26,
+      "name": "Ocoxal-Box",
+      "detail": "Handicraft has its roots in the rural crafts—the material-goods necessities—of ancient civilizations",
+      "description": "A handicraft, sometimes more precisely expressed as artisanal handicraft or handmade, is any of a wide variety of types of work where useful and decorative objects are made completely by one’s hand or by using only simple, non-automated related tools like scissors, carving implements, or hooks.",
+      "img": "https://i.ibb.co/drwJ6rZ/-339106-960-720.jpg",
+      "price": "300"
+    },
+    {
+      "id": 27,
+      "name": "Tea-Takli",
+      "detail": "Handicraft has its roots in the rural crafts—the material-goods necessities—of ancient civilizations",
+      "description": "A handicraft, sometimes more precisely expressed as artisanal handicraft or handmade, is any of a wide variety of types of work where useful and decorative objects are made completely by one’s hand or by using only simple, non-automated related tools like scissors, carving implements, or hooks.",
+      "img": "https://i.ibb.co/4M74Bt6/product-500x500.jpg",
+      "price": "250"
+    },
+    {
+      "id": 28,
+      "name": "Handmade-Wallet",
+      "detail": "Handicraft has its roots in the rural crafts—the material-goods necessities—of ancient civilizations",
+      "description": "A handicraft, sometimes more precisely expressed as artisanal handicraft or handmade, is any of a wide variety of types of work where useful and decorative objects are made completely by one’s hand or by using only simple, non-automated related tools like scissors, carving implements, or hooks.",
+      "img": "https://i.ibb.co/KysT1Ng/product-jpeg-250x250.jpg",
+      "price": "285"
+    },
+    {
+      "id": 29,
+      "name": "Ceramic-Pots",
+      "detail": "Handicraft has its roots in the rural crafts—the material-goods necessities—of ancient civilizations",
+      "description": "A handicraft, sometimes more precisely expressed as artisanal handicraft or handmade, is any of a wide variety of types of work where useful and decorative objects are made completely by one’s hand or by using only simple, non-automated related tools like scissors, carving implements, or hooks.",
+      "img": "https://i.ibb.co/23BQ4fN/s-l300.jpg",
+      "price": "320"
+    },
+    {
+      "id": 30,
+      "name": "Hand-Bag",
+      "detail": "Handicraft has its roots in the rural crafts—the material-goods necessities—of ancient civilizations",
+      "description": "A handicraft, sometimes more precisely expressed as artisanal handicraft or handmade, is any of a wide variety of types of work where useful and decorative objects are made completely by one’s hand or by using only simple, non-automated related tools like scissors, carving implements, or hooks.",
+      "img": "https://i.ibb.co/7vJYPCZ/c-V4-U-3-Copy.jpg",
+      "price": "123"
+    }
+  ]

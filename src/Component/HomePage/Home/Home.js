@@ -1,0 +1,29 @@
+import React from 'react';
+import { Card, Col } from 'react-bootstrap';
+
+const Home = ({product}) => {
+  const {name, detail, img, price} = product
+    return (
+      <Col xs={12} sm={6} md={4} className="g-4 ">
+      <Card className="h-100 p-3 shadow px-5">
+        <Card.Img variant="top" src={img} />
+        <Card.Body>
+          <Card.Title>Name: {name}</Card.Title>
+          <Card.Title>
+            Price BD: <span className="text-success">{price}</span>
+          </Card.Title>
+          <Card.Title>
+          Detail:<span>{detail}</span>
+          
+          </Card.Title>
+          
+          
+        
+        </Card.Body>
+      </Card>
+    </Col>
+      
+    );
+};
+
+export default Home;
