@@ -6,11 +6,12 @@ const Explores = () => {
     useEffect(()=>{
         fetch('data.JSON')
         .then(res => res.json())
-        .then(data => setGoods(data.slice(9, 30)))
+        .then(data => setGoods(data))
     }, [])
     return (
         <div className="container">
-        <div className="row">
+        <div className="row mb-5">
+            <h1 className='p-2'>All Products</h1>
             {
                goods.map(good =><Explore
                 good={good}

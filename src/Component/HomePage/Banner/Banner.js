@@ -13,7 +13,7 @@ const Banner = () => {
             alt="First slide"
           />
           <Carousel.Caption>
-            <Link className=" explore-btn text-white bg-primary p-2 rounded" to="/explore">Explore More</Link>
+            <Link className=" explore-btn text-white bg-primary p-2 rounded" to="/explore">More products</Link>
           </Carousel.Caption>
         </Carousel.Item>
        

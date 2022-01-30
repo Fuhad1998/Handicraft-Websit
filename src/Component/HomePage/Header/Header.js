@@ -29,8 +29,8 @@ const Header = () => {
         </Offcanvas.Header>
         <Offcanvas.Body className="bg-light">
           <Nav className="justify-content-end flex-grow-1  pe-3">
-           <Link className="header-text" to="/explore">Explore</Link>
-           <Link className="header-text" to="/order">Order</Link>
+           <Link className="header-text" to="/explore">All-Products</Link>
+           <Link className="header-text" to="/order">My-Order</Link>
            <Link className="header-text" to="/allOrders">All-Orders</Link>
            <Link className="header-text" to="/manageProduct">Manage-Product</Link>
           

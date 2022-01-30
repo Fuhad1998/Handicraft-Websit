@@ -38,7 +38,7 @@ const Footer = () => {
     </div>
     <div>
       <p className="text-center  p-2 fs-5 fw-bold ">
-        <i className="  fas fa-copyright mb-2 "></i> Copy right 2021 By Fuwad
+        <i className="  fas fa-copyright mb-2 "></i> Copy right 2022 By Fuwad
         Hossian
       </p>
     </div>
