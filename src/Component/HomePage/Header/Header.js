@@ -17,7 +17,7 @@ const Header = () => {
     <Container fluid>
       <Navbar.Brand href="#">Handicraft</Navbar.Brand>
       <Link className="header-text" to="/homes">Home</Link>
-      <Link className="header-text" to="/login">Login</Link>
+      <Link className="header-text text-align" to="/login">Login</Link>
       <Navbar.Toggle aria-controls="offcanvasNavbar" />
       <Navbar.Offcanvas
         id="offcanvasNavbar"
@@ -29,7 +29,10 @@ const Header = () => {
         </Offcanvas.Header>
         <Offcanvas.Body className="bg-light">
           <Nav className="justify-content-end flex-grow-1  pe-3">
-           <Link to="/explore">Explore</Link>
+           <Link className="header-text" to="/explore">Explore</Link>
+           <Link className="header-text" to="/order">Order</Link>
+           <Link className="header-text" to="/allOrders">All-Orders</Link>
+           <Link className="header-text" to="/manageProduct">Manage-Product</Link>
           
           </Nav>
           

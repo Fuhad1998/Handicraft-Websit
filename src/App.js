@@ -9,9 +9,13 @@ import {
 import Homes from './Component/HomePage/Homes/Homes';
 import Footer from './Component/HomePage/Footer/Footer';
 import Login from './Component/Login/Login';
+import Register from './Component/Register/Register';
 import Header from './Component/HomePage/Header/Header';
 import Banner from './Component/HomePage/Banner/Banner';
 import Explores from './Component/Explores/Explores';
+import Orders from './Component/Orders/Orders';
+import AllOrders from './Component/AllOrders/AllOrders';
+import ManageProduct from './Component/ManageProduct/ManageProduct';
 
 function App() {
   return (
@@ -28,11 +32,23 @@ function App() {
           <Route path="/login">
             <Login></Login>
           </Route>
+          <Route path="/register">
+            <Register></Register>
+          </Route>
           <Route path="/banner">
            <Banner></Banner>
           </Route>
           <Route path="/explore">
            <Explores></Explores>
+          </Route>
+          <Route path="/order">
+           <Orders></Orders>
+          </Route>
+          <Route path="/allOrders">
+           <AllOrders></AllOrders>
+          </Route>
+          <Route path="/manageProduct">
+           <ManageProduct></ManageProduct>
           </Route>
         </Switch>
         <Footer></Footer>

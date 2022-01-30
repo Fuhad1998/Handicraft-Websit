@@ -4,6 +4,9 @@
     font-weight: 700;
     color: black;
 }
+/* .text-align{
+    padding-left: 50px;
+} */
 .header-text:hover{
     font-weight: 900;
     color: black;

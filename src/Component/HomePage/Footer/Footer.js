@@ -2,8 +2,8 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <div className="" >
-    <div className="footer-container p-5 row bg-light">
+    <div className="bg-light">
+    <div className="footer-container p-5 row ">
       <div className="footer-section mx-5 col-xs-12 col-sm-12 col-md-3">
         <h1>About Us</h1>
         <h4>Our ami is to provide best service</h4>
@@ -37,7 +37,7 @@ const Footer = () => {
       </div>
     </div>
     <div>
-      <p className="text-center  p-2">
+      <p className="text-center  p-2 fs-5 fw-bold ">
         <i className="  fas fa-copyright mb-2 "></i> Copy right 2021 By Fuwad
         Hossian
       </p>
