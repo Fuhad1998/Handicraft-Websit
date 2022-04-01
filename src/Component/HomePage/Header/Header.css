@@ -20,3 +20,15 @@
     font-weight: 900;
     color:white;
 }
+.web-name{
+    font-weight: 900;
+}
+.header-title{
+    text-decoration: none;
+    font-size: larger;
+    font-weight: 700;
+    color: black;
+}
+.header-title:hover{
+    color:black;
+}
