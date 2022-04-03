@@ -9,7 +9,11 @@ import {
 } from "react-bootstrap";
 import { Link } from "react-router-dom";
 
+import UseAuth from "../../../Firebase/UseAuth";
+
+
 const Header = () => {
+  const {user, logOut} = UseAuth();
   return (
    
     <div>
@@ -19,7 +23,12 @@ const Header = () => {
       {/* <Navbar.Brand href="#"><span className="web-name ">Handicraft</span></Navbar.Brand> */}
       <ul>
       <Link className="header-text" to="/homes"> Home</Link>
-      <Link className="header-text text-align" to="/login">Login</Link>
+      {
+        user.email ? <button onClick={logOut}>Logout</button>
+        :
+        <Link className="header-text text-align" to="/login">Login</Link>
+      }
+      
       </ul>
      
       <Navbar.Toggle aria-controls="offcanvasNavbar" />

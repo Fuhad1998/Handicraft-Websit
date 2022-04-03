@@ -16,10 +16,12 @@ import Explores from './Component/Explores/Explores';
 import Orders from './Component/Orders/Orders';
 import AllOrders from './Component/AllOrders/AllOrders';
 import ManageProduct from './Component/ManageProduct/ManageProduct';
+import AuthProvider from './Context/AuthProvider';
 
 function App() {
   return (
     <div className="App">
+      <AuthProvider>
       <Router>
         <Header></Header>
         <Switch>
@@ -53,6 +55,7 @@ function App() {
         </Switch>
         <Footer></Footer>
       </Router>
+      </AuthProvider>
      
     </div>
   );
