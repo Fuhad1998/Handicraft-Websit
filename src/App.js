@@ -17,6 +17,7 @@ import Orders from './Component/Orders/Orders';
 import AllOrders from './Component/AllOrders/AllOrders';
 import ManageProduct from './Component/ManageProduct/ManageProduct';
 import AuthProvider from './Context/AuthProvider';
+import AddProduct from './Component/Add-a-product/AddProduct';
 
 function App() {
   return (
@@ -51,6 +52,9 @@ function App() {
           </Route>
           <Route path="/manageProduct">
            <ManageProduct></ManageProduct>
+          </Route>
+          <Route path="/addProduct">
+           <AddProduct></AddProduct>
           </Route>
         </Switch>
         <Footer></Footer>

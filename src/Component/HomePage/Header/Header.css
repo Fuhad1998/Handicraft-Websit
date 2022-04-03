@@ -3,6 +3,8 @@
     font-size: larger;
     font-weight: 700;
     color: black;
+    margin-left: 15px;
+
 }
 /* .text-align{
     padding-left: 50px;
@@ -31,4 +33,7 @@
 }
 .header-title:hover{
     color:black;
+}
+.home-text{
+    margin-left: 850px;
 }
