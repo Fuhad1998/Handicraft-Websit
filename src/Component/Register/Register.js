@@ -2,12 +2,17 @@ import { unstable_createMuiStrictModeTheme } from "@mui/material";
 import React from "react";
 import { useForm } from "react-hook-form";
 import { Link } from "react-router-dom";
+import UseAuth from "../../Firebase/UseAuth";
 
 const Register = () => {
+  const {registerUser} = UseAuth();
+
   const { register, handleSubmit } = useForm();
   const onSubmit = (data) => {
     console.log(data.name);
     console.log(data);
+    registerUser(data.email, data.password)
+
     alert("Register successful");
   };
   return (

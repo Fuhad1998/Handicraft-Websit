@@ -6,9 +6,12 @@ import { useForm } from "react-hook-form";
 import UseAuth from "../../Firebase/UseAuth";
 
 const Login = () => {
-  const {signInUsingGoogle} = UseAuth();
+  const {signInUsingGoogle, loginUser} = UseAuth();
   const { register, handleSubmit } = useForm();
   const onSubmit = (data) => {
+    loginUser(data.email, data.password)
+
+    alert('login succesfull')
     
   };
   return (
